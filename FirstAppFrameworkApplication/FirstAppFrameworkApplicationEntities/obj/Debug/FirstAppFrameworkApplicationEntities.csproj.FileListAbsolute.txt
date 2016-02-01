@@ -1,0 +1,29 @@
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\FirstAppFrameworkApplicationEntities.dll
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\FirstAppFrameworkApplicationEntities.pdb
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.csprojResolveAssemblyReference.cache
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.dll
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.pdb
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\MySql.Data.dll
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\AxInterop.AcroPDFLib.dll
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\NPOI.OOXML.dll
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\NPOI.dll
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\Interop.AcroPDFLib.dll
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\AppFramework.pdb
+c:\users\mindl_000\documents\visual studio 2013\Projects\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\NPOI.OOXML.xml
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\FirstAppFrameworkApplicationEntities.dll
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.dll
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.pdb
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\FirstAppFrameworkApplicationEntities.pdb
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.Forms.Customers.resources
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.csproj.GenerateResource.Cache
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.Forms.CompanyDetails.resources
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\RdlCompile.cache
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\RdlCompile.compiled
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\Reports\InvoiceReport.rdlc
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.Forms.Items.resources
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.Forms.Payment.resources
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.csprojResolveAssemblyReference.cache
+C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.Forms.Orders.resources
