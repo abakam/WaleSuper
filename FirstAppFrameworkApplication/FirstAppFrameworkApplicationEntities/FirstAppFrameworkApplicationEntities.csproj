@@ -118,6 +118,7 @@
     <Compile Include="EDTs\OrderEDT.cs" />
     <Compile Include="EDTs\ItemCategoryEDT.cs" />
     <Compile Include="EDTs\ItemEDT.cs" />
+    <Compile Include="EDTs\OrderStatusEDT.cs" />
     <Compile Include="EDTs\PaymentEDT.cs" />
     <Compile Include="EntityClasses\CompanyDetails.cs" />
     <Compile Include="EntityClasses\Customers.cs" />
@@ -141,11 +142,11 @@
     <Compile Include="Forms\Customers.Designer.cs">
       <DependentUpon>Customers.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Invoices.cs">
+    <Compile Include="Forms\Orders.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Invoices.Designer.cs">
-      <DependentUpon>Invoices.cs</DependentUpon>
+    <Compile Include="Forms\Orders.Designer.cs">
+      <DependentUpon>Orders.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Items.cs">
       <SubType>Form</SubType>
@@ -195,8 +196,8 @@
     <EmbeddedResource Include="Forms\Customers.resx">
       <DependentUpon>Customers.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Invoices.resx">
-      <DependentUpon>Invoices.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\Orders.resx">
+      <DependentUpon>Orders.cs</DependentUpon>
     </EmbeddedResource>
     <Content Include="Reports\InvoiceReport.rdlc">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

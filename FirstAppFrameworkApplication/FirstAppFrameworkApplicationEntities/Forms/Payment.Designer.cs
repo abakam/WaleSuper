@@ -70,7 +70,7 @@
             this.formDataGridView1.EditMode = System.Windows.Forms.DataGridViewEditMode.EditOnEnter;
             this.formDataGridView1.EnittyViewTypeFullName = null;
             this.formDataGridView1.EntityBaseNamespace = "";
-            this.formDataGridView1.EntityBaseTypeName = "Orders";
+            this.formDataGridView1.EntityBaseTypeName = "Order";
             this.formDataGridView1.HelpTopic = null;
             this.formDataGridView1.Location = new System.Drawing.Point(0, 27);
             this.formDataGridView1.Name = "formDataGridView1";
