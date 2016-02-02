@@ -71,14 +71,14 @@ namespace FirstAppFrameworkApplicationEntities
 
             Navigation.RootMenu.Children.Add(new NavigationMenu("Items"));
             Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Items", typeof(Items)));
-            Navigation.RootMenu.Children.Add(new NavigationMenu("Payment"));
-            Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Payment", typeof(Payment)));
+            Navigation.RootMenu.Children.Add(new NavigationMenu("Payments"));
+            Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Payments", typeof(Payment)));
 
 
             Navigation.RootMenu.Children.Add(new NavigationMenu("Customers"));
             Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Customers", typeof(Customers)));
             Navigation.RootMenu.Children.Add(new NavigationMenu("Orders"));
-            Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Order Report", typeof(OrderReport)));
+            Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Invoices", typeof(OrderReport)));
             Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Orders", typeof(Orders)));
             Navigation.RootMenu.Children.Add(new NavigationMenu("Company"));
             Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Company", typeof(CompanyDetails)));

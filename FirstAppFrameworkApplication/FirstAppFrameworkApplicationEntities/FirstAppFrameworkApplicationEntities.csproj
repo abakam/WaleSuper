@@ -115,6 +115,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EDTs\CustomerEDT.cs" />
+    <Compile Include="EDTs\DeductionEDT.cs" />
+    <Compile Include="EDTs\DeductionTypeEDT.cs" />
     <Compile Include="EDTs\OrderEDT.cs" />
     <Compile Include="EDTs\ItemCategoryEDT.cs" />
     <Compile Include="EDTs\ItemEDT.cs" />
@@ -122,6 +124,7 @@
     <Compile Include="EDTs\PaymentEDT.cs" />
     <Compile Include="EntityClasses\CompanyDetails.cs" />
     <Compile Include="EntityClasses\Customers.cs" />
+    <Compile Include="EntityClasses\Deduction.cs" />
     <Compile Include="EntityClasses\OrderDetails.cs" />
     <Compile Include="EntityClasses\OrderDetails_Properties.cs" />
     <Compile Include="EntityClasses\Order.cs" />
@@ -141,6 +144,12 @@
     </Compile>
     <Compile Include="Forms\Customers.Designer.cs">
       <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Deductions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Deductions.Designer.cs">
+      <DependentUpon>Deductions.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Orders.cs">
       <SubType>Form</SubType>
@@ -243,6 +252,7 @@
     <None Include="bin\Debug\serverconfig.cfg" />
     <None Include="Properties\DataSources\FirstAppFrameworkApplicationEntities.EntityClasses.InvoiceDetails.datasource" />
     <None Include="Properties\DataSources\FirstAppFrameworkApplicationEntities.ReportClasses.InvoiceReport+InvoiceReportDataLine.datasource" />
+    <None Include="Properties\DataSources\FirstAppFrameworkApplicationEntities.ReportClasses.OrderReport+OrderDetailsReportDataLine.datasource" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
