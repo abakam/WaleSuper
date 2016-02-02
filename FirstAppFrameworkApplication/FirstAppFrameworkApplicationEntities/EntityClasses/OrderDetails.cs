@@ -30,7 +30,7 @@ namespace FirstAppFrameworkApplicationEntities.EntityClasses
 
         public override string TableName
         {
-            get { return "Orderdetails"; }
+            get { return "orderdetails"; }
         }
 
         protected override string TitleColumn1
@@ -62,8 +62,12 @@ namespace FirstAppFrameworkApplicationEntities.EntityClasses
             var unitPrice = (from item in new QueryableEntity<Items>()
                              where item.ItemID == this.ItemID
                              select item.Price).ToList();
-            
             this.Amount = unitPrice[0] * this.Quantity;
+            var order = (from o in new QueryableEntity<Order>()
+                         where o.OrderID == this.OrderID
+                         select o).ToList();
+            order[0].Amount -= this.Amount;
+            order[0].update();
             return base.insert(forceWrite, callSaveMethod);
         }
     }
