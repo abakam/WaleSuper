@@ -45,7 +45,6 @@ C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplica
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplication.exe.config
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.exe
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.pdb
-C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\Reports\InvoiceReport.rdlc
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplication.exe
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplication.pdb
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\AppFramework.dll
@@ -67,3 +66,4 @@ C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAp
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.csprojResolveAssemblyReference.cache
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.Properties.Resources.resources
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.csproj.GenerateResource.Cache
+C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\Reports\InvoiceReport.rdlc
