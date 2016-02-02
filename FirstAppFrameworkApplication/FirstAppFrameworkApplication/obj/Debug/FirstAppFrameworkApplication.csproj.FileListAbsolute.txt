@@ -42,3 +42,6 @@ C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplica
 C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\office.dll
 C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\Microsoft.Vbe.Interop.dll
 C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\Reports\InvoiceReport.rdlc
+C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplication.exe.config
+C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.exe
+C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.pdb
