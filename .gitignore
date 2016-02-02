@@ -1,0 +1,19 @@
+# git ignore file
+*.exe
+*.dll
+*.msi
+*.cache
+*.suo
+*.pdb
+*.Cache
+*.FileListAbsolute.txt
+*.cfg
+**/bin/
+**/obj/
+
+*.webtest
+*.csv
+*.webtestResult
+*.trx
+*.loadtest
+*.chm 
