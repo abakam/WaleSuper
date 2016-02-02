@@ -45,6 +45,7 @@ C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplica
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplication.exe.config
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.exe
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.pdb
+<<<<<<< HEAD
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplication.exe
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplication.pdb
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\AppFramework.dll
@@ -95,3 +96,5 @@ C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAp
 =======
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\Reports\InvoiceReport.rdlc
 >>>>>>> refs/remotes/origin/wale's-branch
+=======
+>>>>>>> origin/master

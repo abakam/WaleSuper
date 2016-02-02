@@ -27,6 +27,10 @@ C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplica
 C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.Forms.Payment.resources
 C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.csprojResolveAssemblyReference.cache
 C:\Users\'wale A\Documents\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.Forms.Orders.resources
+<<<<<<< HEAD
+=======
+C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\Reports\InvoiceReport.rdlc
+>>>>>>> origin/master
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\FirstAppFrameworkApplicationEntities.dll
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\AppFramework.pdb
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\NPOI.OOXML.xml
@@ -37,6 +41,7 @@ C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAp
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.Forms.Items.resources
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.Forms.Payment.resources
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.dll
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.pdb
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\FirstAppFrameworkApplicationEntities.pdb
@@ -62,3 +67,9 @@ C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAp
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\RdlCompile.cache
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\RdlCompile.compiled
 >>>>>>> refs/remotes/origin/wale's-branch
+=======
+C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\RdlCompile.cache
+C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\RdlCompile.compiled
+C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.dll
+C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.pdb
+>>>>>>> origin/master
