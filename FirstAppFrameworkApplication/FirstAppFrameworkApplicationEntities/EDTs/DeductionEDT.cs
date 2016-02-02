@@ -32,7 +32,7 @@ namespace FirstAppFrameworkApplicationEntities.EDTs
 
         public override LookupInfo LookupInfo
         {
-            get { return new LookupInfo(typeof(Deduction), "", ""); }
+            get { return new LookupInfo(typeof(Deduction), "DeductionID", ""); }
         }
     }
     public enum DeductionType
