@@ -1,4 +1,4 @@
-﻿using AppFramework.AppClasses;
+using AppFramework.AppClasses;
 using AppFramework.AppClasses.EDTs;
 using FirstAppFrameworkApplicationEntities.EDTs;
 using FirstAppFrameworkApplicationEntities.Forms;
@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace FirstAppFrameworkApplicationEntities.EntityClasses
 {
-    class Deduction : EntityBase
+    partial class Deduction : EntityBase
     {
         protected override string Caption
         {
@@ -46,7 +46,8 @@ namespace FirstAppFrameworkApplicationEntities.EntityClasses
         {
             FieldInfoList["DeductionID"] = new FieldInfo(false, false, true, new DeductionEDT());
             FieldInfoList["Description"] = new FieldInfo(true, true, true, new ShortDescriptionEDT());
-
+            FieldInfoList["DeductionType"] = new FieldInfo(true, true, true, new DeductionTypeEDT());
+            FieldInfoList["Value"] = new FieldInfo(true, true, true, "Value", new AmountEDT());
         }
     }
 }
