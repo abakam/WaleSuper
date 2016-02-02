@@ -46,8 +46,8 @@ namespace FirstAppFrameworkApplicationEntities.EntityClasses
         protected override void setupEntityInfo()
         {
             FieldInfoList["OrderID"] = new FieldInfo(false, false, true, new OrderEDT());
-            FieldInfoList["ItemCategoryID"] = new FieldInfo(true, true, true, new ItemCategoryEDT());
-            FieldInfoList["ItemID"] = new FieldInfo(true, true, true, new ItemEDT());
+            FieldInfoList["ItemCategoryID"] = new FieldInfo(true, false, true, new ItemCategoryEDT());
+            FieldInfoList["ItemID"] = new FieldInfo(true, false, true, new ItemEDT());
             FieldInfoList["Quantity"] = new FieldInfo(true, false, true, "Quantity", new IntEDT());
             FieldInfoList["Amount"] = new FieldInfo(false, false, true, "Amount", new AmountEDT());
 

@@ -64,10 +64,12 @@ namespace FirstAppFrameworkApplicationEntities.EntityClasses
 
         protected override long update(bool forceWrite, bool callSaveMethod)
         {
-            if (this.Amount <= 0)
+            if (this.Amount < 0)
                 this.OrderStatus = EDTs.OrderStatus.OWING;
-            else
+            else if (this.Amount == 0)
                 this.OrderStatus = EDTs.OrderStatus.SETTLED;
+            else if (this.Amount > 0)
+                this.OrderStatus = EDTs.OrderStatus.OVERPAYED;
             return base.update(forceWrite, callSaveMethod);
         }
                 

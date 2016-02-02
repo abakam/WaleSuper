@@ -39,6 +39,7 @@ namespace FirstAppFrameworkApplicationEntities.EDTs
     {
         SETTLED,
         OWING,
-        NULL
+        NULL,
+        OVERPAYED
     }
 }
