@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace FirstAppFrameworkApplicationEntities.Forms
 {
-    public partial class Deductions : FormBase
+    public partial class OrderDeductions : FormBase
     {
-        public Deductions()
+        public OrderDeductions()
         {
             InitializeComponent();
         }

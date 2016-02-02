@@ -125,7 +125,7 @@
     <Compile Include="EntityClasses\CompanyDetails.cs" />
     <Compile Include="EntityClasses\Customers.cs" />
     <Compile Include="EntityClasses\MiscCharge.cs" />
-    <Compile Include="EntityClasses\OrderMiscCharges.cs" />
+    <Compile Include="EntityClasses\OrderDeduction.cs" />
     <Compile Include="EntityClasses\OrderDetails.cs" />
     <Compile Include="EntityClasses\OrderDetails_Properties.cs" />
     <Compile Include="EntityClasses\Order.cs" />
@@ -201,13 +201,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Order.cs</DependentUpon>
     </Compile>
-    <Compile Include="EntityClasses\MiscCharge_Properties.cs">
+    <Compile Include="EntityClasses\Deduction_Properties.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>MiscCharge.cs</DependentUpon>
     </Compile>
-    <Compile Include="EntityClasses\OrderMiscCharges_Properties.cs">
+    <Compile Include="EntityClasses\OrderDeduction_Properties.cs">
       <AutoGen>True</AutoGen>
-      <DependentUpon>OrderMiscCharges.cs</DependentUpon>
+      <DependentUpon>OrderDeduction.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

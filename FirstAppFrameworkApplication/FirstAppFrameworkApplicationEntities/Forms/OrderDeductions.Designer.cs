@@ -1,6 +1,6 @@
 ﻿namespace FirstAppFrameworkApplicationEntities.Forms
 {
-    partial class Deductions
+    partial class OrderDeductions
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Deductions";
+            this.Text = "OrderDeductions";
         }
 
         #endregion

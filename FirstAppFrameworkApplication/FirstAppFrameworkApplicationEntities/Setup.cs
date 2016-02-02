@@ -73,7 +73,8 @@ namespace FirstAppFrameworkApplicationEntities
             Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Items", typeof(Items)));
             Navigation.RootMenu.Children.Add(new NavigationMenu("Payments"));
             Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Payments", typeof(Payment)));
-
+            Navigation.RootMenu.Children.Add(new NavigationMenu("Misc. Charges"));
+            Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Misc. Charges", typeof(MiscCharges)));
 
             Navigation.RootMenu.Children.Add(new NavigationMenu("Customers"));
             Navigation.RootMenu.Children[Navigation.RootMenu.Children.Count - 1].Children.Add(new NavigationMenu("Customers", typeof(Customers)));

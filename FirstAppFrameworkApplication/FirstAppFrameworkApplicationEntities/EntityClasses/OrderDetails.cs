@@ -53,7 +53,7 @@ namespace FirstAppFrameworkApplicationEntities.EntityClasses
 
             TableInfo.KeyInfoList["OrderID"] = new KeyInfo(KeyType.Key, "OrderID");
             TableInfo.KeyInfoList["ItemCategoryID"] = new KeyInfo(KeyType.Key, "ItemCategoryID");
-            TableInfo.KeyInfoList["ItemID"] = new KeyInfo(KeyType.Key, "ItemID");
+            TableInfo.KeyInfoList["ItemID_FK"] = new KeyInfo(KeyType.Key, "ItemID");
             TableInfo.KeyInfoList["CompositeKey"] = new KeyInfo(KeyType.Unique, "OrderID", "ItemCategoryID", "ItemID"); 
         }
 

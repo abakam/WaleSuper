@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace FirstAppFrameworkApplicationEntities.EntityClasses
 {
-    partial class Deduction : EntityBase
+    partial class MiscCharge : EntityBase
     {
         protected override string Caption
         {
@@ -19,12 +19,12 @@ namespace FirstAppFrameworkApplicationEntities.EntityClasses
 
         protected override Type FormType
         {
-            get { return typeof(Deductions); }
+            get { return typeof(MiscCharges); }
         }
 
         protected override Type ListFormType
         {
-            get { return typeof(Deductions); }
+            get { return typeof(MiscCharges); }
         }
 
         public override string TableName
@@ -44,10 +44,19 @@ namespace FirstAppFrameworkApplicationEntities.EntityClasses
 
         protected override void setupEntityInfo()
         {
-            FieldInfoList["DeductionID"] = new FieldInfo(false, false, true, new DeductionEDT());
+            FieldInfoList["DeductionID"] = new FieldInfo(true, false, true, new MiscChargeEDT());
             FieldInfoList["Description"] = new FieldInfo(true, true, true, new ShortDescriptionEDT());
-            FieldInfoList["DeductionType"] = new FieldInfo(true, true, true, new DeductionTypeEDT());
+            FieldInfoList["DeductionType"] = new FieldInfo(true, true, true, new MiscChargeTypeEDT());
             FieldInfoList["Value"] = new FieldInfo(true, true, true, "Value", new AmountEDT());
+
+            TableInfo.KeyInfoList["DeductionID"] = new KeyInfo(KeyType.PrimaryField, "DeductionID");
+        }
+
+        protected override long insert(bool forceWrite, bool callSaveMethod)
+        {
+            //this.DeductionID = AppFramework.AppClasses.AppEntities.NumberSequences.getNumber("DeductionIDSequence");
+            
+            return base.insert(forceWrite, callSaveMethod);
         }
     }
 }

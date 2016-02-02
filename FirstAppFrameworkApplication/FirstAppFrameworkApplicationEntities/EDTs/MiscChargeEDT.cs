@@ -1,4 +1,5 @@
 ﻿using AppFramework.AppClasses;
+using FirstAppFrameworkApplicationEntities.EntityClasses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,31 +8,31 @@ using System.Threading.Tasks;
 
 namespace FirstAppFrameworkApplicationEntities.EDTs
 {
-    class DeductionTypeEDT : ExtendedDataType
+    class MiscChargeEDT : ExtendedDataType
     {
         public override Type EnumType
         {
-            get { throw new NotImplementedException(); }
+            get { return null; }
         }
 
         public override FormDataType FormDataType
         {
-            get { throw new NotImplementedException(); }
+            get { return AppFramework.AppClasses.FormDataType.String; }
         }
 
         public override string Label
         {
-            get { throw new NotImplementedException(); }
+            get { return "Charge ID"; }
         }
 
         public override int Length
         {
-            get { throw new NotImplementedException(); }
+            get { return -1; }
         }
 
         public override LookupInfo LookupInfo
         {
-            get { throw new NotImplementedException(); }
+            get { return new LookupInfo(typeof(MiscCharge), "DeductionID", ""); }
         }
-    }
+    }   
 }

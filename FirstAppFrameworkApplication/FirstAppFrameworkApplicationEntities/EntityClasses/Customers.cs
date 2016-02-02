@@ -41,6 +41,8 @@ namespace FirstAppFrameworkApplicationEntities.EntityClasses
             FieldInfoList["CustomerID"] = new FieldInfo(false, false, true, new CustomerEDT());
             FieldInfoList["Name"] = new FieldInfo(true, true, true, "Name", new ShortDescriptionEDT());
             FieldInfoList["Money"] = new FieldInfo(false, true, true, "Money", new AmountEDT());
+
+            TableInfo.KeyInfoList["CustomerID"] = new KeyInfo(KeyType.PrimaryField, "CustomerID");
         }
         protected override long insert(bool forceWrite, bool callSaveMethod)
         {

@@ -8,21 +8,21 @@ using System.Threading.Tasks;
 
 namespace FirstAppFrameworkApplicationEntities.EDTs
 {
-    class DeductionEDT : ExtendedDataType
+    class MiscChargeTypeEDT : ExtendedDataType
     {
         public override Type EnumType
         {
-            get { return null; }
+            get { return typeof(DeductionType); }
         }
 
         public override FormDataType FormDataType
         {
-            get { return AppFramework.AppClasses.FormDataType.String; }
+            get { return AppFramework.AppClasses.FormDataType.Enum; }
         }
 
         public override string Label
         {
-            get { return "Deductions"; }
+            get { return "Deduction Type"; }
         }
 
         public override int Length
@@ -32,7 +32,7 @@ namespace FirstAppFrameworkApplicationEntities.EDTs
 
         public override LookupInfo LookupInfo
         {
-            get { return new LookupInfo(typeof(Deduction), "DeductionID", ""); }
+            get { return new LookupInfo(typeof(MiscCharge), "DeductionType", ""); }
         }
     }
     public enum DeductionType

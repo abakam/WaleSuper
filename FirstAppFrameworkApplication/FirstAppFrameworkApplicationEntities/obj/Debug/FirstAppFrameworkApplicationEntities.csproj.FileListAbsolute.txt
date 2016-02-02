@@ -43,3 +43,4 @@ C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAp
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\bin\Debug\Reports\InvoiceReport.rdlc
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\RdlCompile.cache
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\RdlCompile.compiled
+C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplicationEntities\obj\Debug\FirstAppFrameworkApplicationEntities.Forms.MiscCharges.resources

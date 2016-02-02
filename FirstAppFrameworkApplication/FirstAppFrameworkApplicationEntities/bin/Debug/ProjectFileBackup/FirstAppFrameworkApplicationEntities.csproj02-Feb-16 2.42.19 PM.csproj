@@ -201,13 +201,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Order.cs</DependentUpon>
     </Compile>
+    <Compile Include="EntityClasses\OrderDeduction_Properties.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>OrderMiscCharges.cs</DependentUpon>
+    </Compile>
     <Compile Include="EntityClasses\MiscCharge_Properties.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>MiscCharge.cs</DependentUpon>
-    </Compile>
-    <Compile Include="EntityClasses\OrderMiscCharges_Properties.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>OrderMiscCharges.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

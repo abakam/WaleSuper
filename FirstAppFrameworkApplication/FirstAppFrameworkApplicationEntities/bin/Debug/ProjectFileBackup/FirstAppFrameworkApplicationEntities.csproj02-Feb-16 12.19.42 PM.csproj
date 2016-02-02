@@ -115,8 +115,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EDTs\CustomerEDT.cs" />
-    <Compile Include="EDTs\MiscChargeEDT.cs" />
-    <Compile Include="EDTs\MiscChargeTypeEDT.cs" />
+    <Compile Include="EDTs\DeductionEDT.cs" />
+    <Compile Include="EDTs\DeductionTypeEDT.cs" />
     <Compile Include="EDTs\OrderEDT.cs" />
     <Compile Include="EDTs\ItemCategoryEDT.cs" />
     <Compile Include="EDTs\ItemEDT.cs" />
@@ -124,8 +124,7 @@
     <Compile Include="EDTs\PaymentEDT.cs" />
     <Compile Include="EntityClasses\CompanyDetails.cs" />
     <Compile Include="EntityClasses\Customers.cs" />
-    <Compile Include="EntityClasses\MiscCharge.cs" />
-    <Compile Include="EntityClasses\OrderMiscCharges.cs" />
+    <Compile Include="EntityClasses\Deduction.cs" />
     <Compile Include="EntityClasses\OrderDetails.cs" />
     <Compile Include="EntityClasses\OrderDetails_Properties.cs" />
     <Compile Include="EntityClasses\Order.cs" />
@@ -133,7 +132,6 @@
     <Compile Include="EntityClasses\ItemCategory_Properties.cs" />
     <Compile Include="EntityClasses\Items.cs" />
     <Compile Include="EntityClasses\Payment.cs" />
-    <Compile Include="EntityClasses\QueryableEntity_2.cs" />
     <Compile Include="EntityEnums\Enums.cs" />
     <Compile Include="Forms\CompanyDetails.cs">
       <SubType>Form</SubType>
@@ -147,17 +145,11 @@
     <Compile Include="Forms\Customers.Designer.cs">
       <DependentUpon>Customers.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\MiscCharges.cs">
+    <Compile Include="Forms\Deductions.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\MiscCharges.Designer.cs">
-      <DependentUpon>MiscCharges.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Forms\OrderDeductions.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\OrderDeductions.Designer.cs">
-      <DependentUpon>OrderDeductions.cs</DependentUpon>
+    <Compile Include="Forms\Deductions.Designer.cs">
+      <DependentUpon>Deductions.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Orders.cs">
       <SubType>Form</SubType>
@@ -201,14 +193,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Order.cs</DependentUpon>
     </Compile>
-    <Compile Include="EntityClasses\MiscCharge_Properties.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>MiscCharge.cs</DependentUpon>
-    </Compile>
-    <Compile Include="EntityClasses\OrderMiscCharges_Properties.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>OrderMiscCharges.cs</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Release\" />
@@ -220,9 +204,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Customers.resx">
       <DependentUpon>Customers.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forms\MiscCharges.resx">
-      <DependentUpon>MiscCharges.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Orders.resx">
       <DependentUpon>Orders.cs</DependentUpon>
