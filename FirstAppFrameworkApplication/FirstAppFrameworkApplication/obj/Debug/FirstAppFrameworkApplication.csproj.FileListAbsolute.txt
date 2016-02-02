@@ -67,3 +67,26 @@ C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAp
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.Properties.Resources.resources
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.csproj.GenerateResource.Cache
 C:\Users\'wale A\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\Reports\InvoiceReport.rdlc
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplication.exe.config
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.exe
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.pdb
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\Reports\InvoiceReport.rdlc
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplication.exe
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplication.pdb
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\AppFramework.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplicationEntities.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\MySql.Data.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\NPOI.OOXML.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\NPOI.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\office.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\bin\Debug\FirstAppFrameworkApplicationEntities.pdb
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.csprojResolveAssemblyReference.cache
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.Properties.Resources.resources
+C:\Users\ab_akam\Documents\GitHub\WaleSuper\FirstAppFrameworkApplication\FirstAppFrameworkApplication\obj\Debug\FirstAppFrameworkApplication.csproj.GenerateResource.Cache
